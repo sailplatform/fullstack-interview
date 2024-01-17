@@ -14,7 +14,7 @@
 	<name>fsbackend</name>
 	<description>Basic backend project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 		<springdoc-openapi.version>1.6.9</springdoc-openapi.version>
 	</properties>
 	<dependencies>
