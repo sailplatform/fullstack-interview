@@ -1,5 +1,6 @@
-/Users/divyaprem/Documents/fullstack-interview/backend/src/main/java/org/sailplatform/fsbackend/FsbackendApplication.java
-/Users/divyaprem/Documents/fullstack-interview/backend/src/main/java/org/sailplatform/fsbackend/model/Person.java
-/Users/divyaprem/Documents/fullstack-interview/backend/src/main/java/org/sailplatform/fsbackend/service/PersonService.java
-/Users/divyaprem/Documents/fullstack-interview/backend/src/main/java/org/sailplatform/fsbackend/repository/PersonRepository.java
-/Users/divyaprem/Documents/fullstack-interview/backend/src/main/java/org/sailplatform/fsbackend/controller/PersonController.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\service\PersonService.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\controller\PersonController.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\model\Person.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\model\PersonUpdate.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\repository\PersonRepository.java
+D:\GitHub\teel-lab\backend\src\main\java\org\sailplatform\fsbackend\FsbackendApplication.java

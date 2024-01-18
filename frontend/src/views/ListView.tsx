@@ -37,7 +37,10 @@ function ListView(){
             }
         </div>
         }
-        <Link to={"/add"}>Add Person</Link>
+        <div><Link to={"/add"}>Add Person</Link></div>
+
+        <div><Link to={"/edit"}>Edit Person</Link></div>
+        <div><Link to={"/delete"}>Delete Person</Link></div>
     </>
 }
 
